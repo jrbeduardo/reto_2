@@ -1,24 +1,9 @@
-# README
+# Reto 2 Descarga de curriculum
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[site](https://thawing-headland-82279.herokuapp.com/)
 
-Things you may want to cover:
+Usando Ruby On Rails se crea un proyecto que hace lo siguiente:
 
-* Ruby version
+* Al entrar a URL del servidor local del proyecto se descarga automáticamente mi curriculum que esta hosteado  **gdrive**.
+* La dirección IP de cada visitante es almacenada en una base de datos (Postgres).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
